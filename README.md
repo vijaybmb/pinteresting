@@ -1,1 +1,0 @@
-Pinteresting sample application.
